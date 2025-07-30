@@ -1,6 +1,4 @@
 # CSE568_BioComputing
-Final Project Report
-
 # 🧬 MCS Project Portfolio – Biocomputing (CSE 568)
 
 **Author:** Milind Parab  
@@ -87,13 +85,6 @@ The simulation showed **emergent behavior** consistent with natural systems: ant
 - Adaptability of **bio-inspired algorithms** across domains
 - Importance of **data representation** in model performance
 - Real-world relevance in **cybersecurity**, **medical diagnostics**, **fraud detection**, and **optimization**
-
----
-
-## 🌐 Links
-
-- 📁 **Project Portfolio**: [Milind's Portfolio](https://olympus.mygreatlearning.com/eportfolio)  
-- 💻 **GitHub Profile**: [connectmilind](https://github.com/connectmilind21/Profile)
 
 ---
 
